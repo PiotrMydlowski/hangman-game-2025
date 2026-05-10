@@ -9,9 +9,7 @@ Created on Tue Apr 22 06:28:30 2025
 import random
 
 
-FRUITS = '''apple banana mango strawberry 
-orange grape pineapple apricot lemon coconut watermelon 
-cherry papaya berry peach lychee muskmelon'''
+FRUITS = '''apple banana mango strawberry orange grape pineapple apricot lemon coconut watermelon cherry papaya berry peach lychee muskmelon'''
 WORD_LIST = FRUITS.split(' ')
 
 
